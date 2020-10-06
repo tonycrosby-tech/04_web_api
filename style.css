@@ -3,12 +3,14 @@ body {
 }
 
 .container {
-    background-color: aliceblue;
+    background-color: rgb(138, 192, 238);
     width: 1920px;
     height: 1080px;
     display: flex;
-    border: solid blue;
+    border: solid black;
     border-radius: 0.5rem;
+    display: grid;
+    opacity: .75;
 }
 
 h1,p {
@@ -26,12 +28,6 @@ a {
     justify-content: flex-start;
 }
 
-div .container {
-    width: 1920px;
-    height: 1080px;
-    display: flex;
-}
-
 body {
     background-image: url(./assets/quiz2bg.jpg);
 }
@@ -43,7 +39,7 @@ body {
 
 a {
     font-size: 24px;
-    color: aliceblue;
+    color: black;
 }
 
 button {
@@ -67,7 +63,7 @@ p {
 }
 
 h2 {
-    color: whitesmoke;
+    color: black;
     font-weight: 500;
     display: flex;
     justify-content: center;
@@ -83,4 +79,10 @@ input {
     border: none;
     text-align: center;
     margin-bottom: 1rem;
-  }
+}
+
+.big {
+    font-size: 48px;
+    font-family: serif;
+    margin-top: 2rem;
+}
