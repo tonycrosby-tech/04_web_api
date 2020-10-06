@@ -1,3 +1,86 @@
-.body {
-    background-color: antiquewhite;
+body {
+    background-color: aliceblue;
 }
+
+.container {
+    background-color: aliceblue;
+    width: 1920px;
+    height: 1080px;
+    display: flex;
+    border: solid blue;
+    border-radius: 0.5rem;
+}
+
+h1,p {
+    display: flex;
+    justify-content: center;
+}
+
+h4 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+a {
+    display: flex;
+    justify-content: flex-start;
+}
+
+div .container {
+    width: 1920px;
+    height: 1080px;
+    display: flex;
+}
+
+body {
+    background-image: url(./assets/quiz2bg.jpg);
+}
+
+.red {
+    color: red;
+    font-size: 32px; 
+}
+
+a {
+    font-size: 24px;
+    color: aliceblue;
+}
+
+button {
+    display: block;
+    width: 100%;
+    border: whitesmoke;
+    border-radius: 0.5rem;
+    background-color: #671397;
+    padding: 14px 28px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    color:whitesmoke;
+    justify-content: center;
+    margin-top: 1.5rem;
+  }
+
+p {
+    color: whitesmoke;
+    font-size: 32px; 
+}
+
+h2 {
+    color: whitesmoke;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+}
+
+input {
+    height: 50px;
+    width: 100%;
+    padding: 6px;
+    margin-top: 10px;
+    font-size: 2.4em;
+    border: none;
+    text-align: center;
+    margin-bottom: 1rem;
+  }
