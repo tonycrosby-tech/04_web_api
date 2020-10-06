@@ -1,4 +1,4 @@
-var questions = [
+[
     {
         "question": "Inside which HTML element do we put the JavaScript?",
         "choices": ["<script>", "<javascript>", "<scripting>", "<js>"],
@@ -23,5 +23,5 @@ var questions = [
         "question": "How do you create a function in JavaScript?",
         "choices": ["function:myFunction()", "function = myFunction()", "function myFunction()"],
         "answer": "function myFunction()"
-    }
-];  
+    }  
+]
