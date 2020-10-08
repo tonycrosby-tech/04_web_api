@@ -107,9 +107,9 @@ var quizContent = `
 <h1>
     JavaScript Quiz!
 </h1>
-<h3>
+<h2>
     Click to play!   
-</h3>
+</h2>
 <button onclick="start()">Start!</button>`;
 
 document.getElementById("quizBody").innerHTML = quizContent;
