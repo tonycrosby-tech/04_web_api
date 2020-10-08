@@ -1,4 +1,4 @@
-<img rel="JSQuiz" src="./assets/jsquiz.jpg">
+<a target="_blank" href="https://tonycrosby.net/04_web_api"><img rel="JSQuiz" src="./assets/jsquiz.jpg"></a>
 
 # 04_web_api
 
