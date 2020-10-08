@@ -11,11 +11,11 @@
     # 4 choices
     # if wrong 
         * move on
-        * time is subtracted
+        * score and time is subtracted
     # if right choice 
         * points added to score localstorage
         * move on to next question
 ## End
     # scoreboard pops up array/obj for localstorage high score
     # input initials to save high score
-    # button to start over button redirects
+    # button to start over button redirects to play again
