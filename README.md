@@ -6,7 +6,7 @@
 
 ### > To get to the Repository <a href="https://github.com/tonycrosby-tech/04_web_api"> Click this link </a>
 
-### > To get to the Website <a href="https://github.com/tonycrosby-tech/04_web_api"> Click this link </a>
+### > To get to the Website <a href="https://tonycrosby-tech.github.io/04_web_api/"> Click this link </a>
 
 # Technologies Used
 
